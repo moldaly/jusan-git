@@ -1,5 +1,5 @@
 # Stepik-id-printer (h1) 
-![](/home/moldaly.aida/Downloads/image.png "")
+![](/home/moldaly.aida/Downloads/image(1).jpg "")
 
 Это проект для вывода моего персонального идентификатора на *обязательной платформе* `stepik.org`.
 ## Возможности (h2)
