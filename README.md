@@ -1,5 +1,5 @@
 # Stepik-id-printer (h1) 
-![Jusan Bank!](/home/moldaly.aida/Downloads/image.png "Jusan Bank")
+![Jusan Bank!](/home/moldaly.aida/Downloads/image.png "")
 Это проект для вывода моего персонального идентификатора на *обязательной платформе* `stepik.org`.
 ## Возможности (h2)
 Данный проект имеет следующий функционал.
