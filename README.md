@@ -1,30 +1,41 @@
 # Stepik-id-printer (h1)
-Это проект для вывода моего персонального идентификатора на <em>обязательной платформе</em> stepik.org.
+Это проект для вывода моего персонального идентификатора на *обязательной платформе* `stepik.org`.
 ## Возможности (h2)
-:bulb:
-Данный проект имеет следующий функционал.<br>
-<ul>
-    <li>Выводит в stdout уникальный идентификатор.</li>
-    <li>Без зависимостей.</li>
-    <li>Простой.</li>
-</ul>
-<h2>Запуск (h2)</h2><br>
-bash ./script.sh<br>
-<h2>Портирование (h2)</h2><br>
-Данный проект можно портировать на другие языки программирования.<br>
-На Java<br>
-class Main {<br>
-public static void main(String[] args) {<br>
-System.out.println("777");<br>
-}<br>
-}<br>
-На C++<br>
-#include <iosteam><br>
-<br>
-using namespace std;<br>
-<br>
-int main() {<br>
-count << 777 >> endl;<br>
-return 0;<br>
-}<br>
-![Tux, the Linux mascot](/assets/images/tux.png)
+Данный проект имеет следующий функционал.
+  - Выводит в **stdout** уникальный идентификатор.
+  - Без зависимостей.
+  - Простой.
+  
+## Запуск (h2)
+`bash ./script.sh`
+## Портирование (h2)
+Данный проект можно портировать на другие языки программирования.
+На Java
+```java
+  class Main {
+     public static void main(String[] args) {
+     System.out.println("777");
+     }
+  }
+  ```
+На C++
+```c++
+#include <iosteam>
+
+using namespace std;
+
+int main() {
+   count << 777 >> endl;
+   return 0;
+}
+```
+> :bulb:Попробуйте реализовать на Python, Go, и JavaScript.
+## Контакты разработчика (h2)
+Ниже найдете список ссылок для связки с авторомю
+
+| Платформа | Ссылка | Отвечу за |
+| --------- | ------ | --------- |
+| Почта     | [Ссылка](https://emojio.ru/objects/d83ddca1-1f4a1-lampochka.html) | 24 часа |
+| Linkedin  | [Ссылка](https://emojio.ru/objects/d83ddca1-1f4a1-lampochka.html) | 3 часа |
+| Whatsapp  | [Ссылка](https://emojio.ru/objects/d83ddca1-1f4a1-lampochka.html) | 30 минут |
+| Telegram  | [Ссылка](https://emojio.ru/objects/d83ddca1-1f4a1-lampochka.html) | 5 минут |
