@@ -39,3 +39,5 @@ int main() {
 | Linkedin  | [Ссылка](https://emojio.ru/objects/d83ddca1-1f4a1-lampochka.html) | 3 часа |
 | Whatsapp  | [Ссылка](https://emojio.ru/objects/d83ddca1-1f4a1-lampochka.html) | 30 минут |
 | Telegram  | [Ссылка](https://emojio.ru/objects/d83ddca1-1f4a1-lampochka.html) | 5 минут |
+
+Скрипт username.sh выводит мое имя.
